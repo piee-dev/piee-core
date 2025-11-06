@@ -32,19 +32,7 @@ Whether you’re a developer, designer, or creator, PIEE helps automate repetiti
 
 ---
 
-## 🧱 Architecture
-piee-core/
-├── app/
-│ ├── api/ # FastAPI routes and endpoints
-│ ├── modules/ # Tool modules (image, video, code, etc.)
-│ ├── services/ # Business logic and handlers
-│ ├── models/ # Data and schema definitions
-│ ├── utils/ # Shared utility functions
-│ └── main.py # App entry point
-├── tests/ # Unit & integration tests
-├── requirements.txt
-├── Dockerfile
-└── README.md
+
 
 ### 🧠 Core Tech Stack
 - **Backend:** FastAPI + Uvicorn  
